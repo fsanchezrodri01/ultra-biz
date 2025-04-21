@@ -740,11 +740,6 @@ header .header-col.mid .social-icons {
   counter-increment: my-awesome-counter;
 }
 
-#mainmenu > li:nth-child(2) {
-  display: none;
-}
-
-
 /* #mainmenu>li::before {
   content: counter(my-awesome-counter) ' —';
   right: 8px;
