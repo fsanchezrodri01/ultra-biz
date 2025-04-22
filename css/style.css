@@ -12460,6 +12460,77 @@ i.bg-color-secondary {
 
 /* ================================================== */
 
+.highlight-basic-page {
+  /* Example custom styles for the featured card section */
+  background: linear-gradient(135deg, #232526 0%, #414345 100%); /* custom dark gradient */
+  border-radius: 20px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  padding: 60px 0;
+}
+
+.highlight-basic-page .bg-grey {
+  background: rgba(255,255,255,0.07) !important;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.08);
+}
+
+.highlight-basic-page h1,
+.highlight-basic-page h4,
+.highlight-basic-page .lead {
+  color: #fff !important;
+}
+
+.highlight-basic-page .badge.bg-primary {
+  background: #fa6a2e;
+  color: #fff;
+  font-size: 1rem;
+  padding: 0.5em 1em;
+  border-radius: 8px;
+}
+
+.highlight-basic-page .btn-main {
+  background: #fa6a2e;
+  border: none;
+  color: #fff;
+  box-shadow: 0 2px 8px 0 rgba(250,106,46,0.15);
+}
+
+.highlight-basic-page .btn-main.btn-outline-light {
+  background: transparent;
+  border: 2px solid #fa6a2e;
+  color: #fa6a2e;
+}
+
+.highlight-basic-page .btn-main.btn-outline-light:hover {
+  background: #fa6a2e;
+  color: #fff;
+}
+
+.highlight-basic-page .display-5.fw-bold.text-success {
+  color: #4be18a !important;
+}
+
+.highlight-basic-page .text-muted {
+  color: #b0b8c1 !important;
+}
+
+.highlight-basic-page a.text-light {
+  color: #fff !important;
+  text-decoration: underline;
+}
+
+.highlight-basic-page .rounded-10 {
+  border-radius: 10px !important;
+}
+
+.highlight-basic-page .rounded-20 {
+  border-radius: 20px !important;
+}
+
+.highlight-basic-page .shadow-lg {
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15) !important;
+}
+
 
 /* swiperjs */
 
