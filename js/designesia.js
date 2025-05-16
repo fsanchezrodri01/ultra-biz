@@ -1,5 +1,5 @@
 /* --------------------------------------------------
- * © Copyright 2025 - Ultra-Biz
+ * © Copyright 2025 - Ultra-Biz - Web Designer: Francisco Sánchez
  * --------------------------------------------------*/
 (function ($) {
   "use strict";
